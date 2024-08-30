@@ -2,15 +2,15 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+This is a `portfolio` page of _**Himanshu Joshi**_.
 
-[Link to another page](./another-page.html).
+[Link to another page](./[another-page.html](https://docs.google.com/spreadsheets/d/1v6pPE09fzYgFLqzW06x9ArTfMpmR8IlctsHsn_kP-jA/edit?gid=2119223196#gid=2119223196).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# THIS PAGE WILL SOON BE DEPLOYED WITH THE RELEVANT DETAILS ABOUT HIMANSHU
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
