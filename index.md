@@ -4,7 +4,7 @@ layout: default
 
 This is a `portfolio` page of _**Himanshu Joshi**_.
 
-[Here are some content pieces I’ve written previously.](./[CLICK ME](https://docs.google.com/spreadsheets/d/1v6pPE09fzYgFLqzW06x9ArTfMpmR8IlctsHsn_kP-jA/edit?gid=2119223196#gid=2119223196).
+[Here are some content pieces I’ve written previously.][CLICK ME](https://docs.google.com/spreadsheets/d/1v6pPE09fzYgFLqzW06x9ArTfMpmR8IlctsHsn_kP-jA/edit?gid=2119223196#gid=2119223196).
 
 There should be whitespace between paragraphs.
 
